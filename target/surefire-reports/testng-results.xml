@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-17T22:51:50 IST" name="Suite" finished-at="2024-04-17T22:58:26 IST" duration-ms="395779">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-04-17T22:51:50 IST" name="Test" finished-at="2024-04-17T22:58:26 IST" duration-ms="395779">
+      <class name="testRunner.testRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:51:50 IST" name="setUpClass" finished-at="2024-04-17T22:51:51 IST" duration-ms="1017" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5ebfe7fa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:51:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:53:18 IST" duration-ms="86277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of user interaction with policy bazzar site when user searches for Travel insurance plans"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Travel insurance plan for students-Policy Bazzar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:53:18 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:54:01 IST" duration-ms="43063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Insurance products in Health insurance"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Travel insurance plan for students-Policy Bazzar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:54:01 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:54:59 IST" duration-ms="58169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of user interaction with policybazzar site when user searches for car insurance plans"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Travel insurance plan for students-Policy Bazzar"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:54:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:55:48 IST" duration-ms="49029" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of user navigate to Term Life Insurance page on clicking Term Life Iinsurance icon in Homepage of Policy Bazzar website"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Smoke Testing on Policy Bazaar website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:55:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:56:35 IST" duration-ms="46888" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of user navigate to Health Insurance page on clicking Health Insurance icon in Homepage of Policy Bazzar website"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Smoke Testing on Policy Bazaar website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:56:35 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:57:27 IST" duration-ms="52079" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of user navigate to Investment Plans and navigate back to HomePage on clicking policy bazaar logo"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Smoke Testing on Policy Bazaar website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:57:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-17T22:58:18 IST" duration-ms="51146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validation of displaying the Personal Insurance and Business Insurance tabs on clicking view all products"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Smoke Testing on Policy Bazaar website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.testRunner@48f2bd5b]" started-at="2024-04-17T22:58:18 IST" name="tearDownClass" finished-at="2024-04-17T22:58:26 IST" duration-ms="8030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.testRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
